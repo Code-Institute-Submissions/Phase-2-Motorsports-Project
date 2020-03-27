@@ -58,7 +58,7 @@
 }
 
 .jumbo-2{
-    margin-top: 0px;
+    margin-top: 70px;
     margin-bottom: 0;
     margin-left: 200px;
     margin-right: 200px;
@@ -85,6 +85,15 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 30px;
+}
+
+.profile-h1{
+    font-size: 30px;
+}
+
+.sponsors-h1{
+    font-size: 30px;
+    margin-bottom: 30px;
 }
 
 /* ----------------------------------------background images */
