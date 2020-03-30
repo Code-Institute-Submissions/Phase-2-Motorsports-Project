@@ -222,3 +222,51 @@ footer {
 .inline-2{
     display: inline;
 }
+
+/* ----------------------------------------Media*/
+
+@media (max-width: 400px) {
+
+    .display-4{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .sponsors-h1{
+        font-size: 20px;
+    }
+
+    .text-style{
+        font-size: 20px;
+    }
+
+    .text-style-2{
+        font-size: 20px;
+    }
+
+    .jumbo-3{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .jumbo-2{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .card{
+        margin-top: 10px;
+        margin-left: 7.5px;
+    }
+
+    .profile-h1{
+        font-size: 20px;
+    }
+
+}
+
+@media (max-width:1200px) {
+
+}
+
+
